@@ -84,6 +84,56 @@ the hierarchical of if statement :
 </div>
 we can add unlimited else to the else statement passed what we want the program to excute 
 
+##The while and do-while Statements
+to excute some lines of any code with number of repeation passed on the condition if it was true it will be excuited otherwise it will break the wile loop and it will stop repeating
+
+<div class="highlight">
+    <pre tabindex="0" class="chroma">
+        <code class="language-fallback" data-lang="fallback">
+        
+           void name() {
+   while (condition) {
+            code;
+            count++;
+        }
+        </code>
+    </pre>
+</div>
+
+Or
+<div class="highlight">
+    <pre tabindex="0" class="chroma">
+        <code class="language-fallback" data-lang="fallback">
+        do {
+     statement(s)
+} while (expression);
+        }
+        </code>
+    </pre>
+</div>
+
+##for Statement
+we use it to do a reaptation and for accessing arrays
+<div class="highlight">
+    <pre tabindex="0" class="chroma">
+        <code class="language-fallback" data-lang="fallback">
+        for (initialization; termination;
+     increment) {
+    statement(s)
+}
+        </code>
+    </pre>
+</div>
+
+####branching statements
+-break ;
+it take us out of the loop it is combined with if statemant if the condition was true it will break the loop
+-countinuie
+it skip some steps in the code under a certain condition it is combined with true if statement
+-return
+tow types of return ,first return it returns for us a value and the other one dosen't 
+to calculate a value put the operation after the return code 
+
 
 
 
