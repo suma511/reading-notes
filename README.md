@@ -9,7 +9,6 @@ these is summury of incoming topics
 ##### table of content 
 | The Code      | The Title | The Link     |
 | :---        |    :----:   |          ---: |
-| Read01      | Java Baic       | [Link](https://link-url-here.org)
-  |
-| Paragraph   | Text        | And more      |
+| Read01      | Java Basic       | [Link](https://link-url-here.org)|
+| Rrad02   | Arrays,Loops,Imports        | [Link](https://link-url-here.org)     |
 
